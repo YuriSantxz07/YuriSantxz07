@@ -20,8 +20,8 @@ Olá! Sou Yuri Santos, um desenvolvedor back-end em formação com foco em APIs.
 
 ## 🚀 Estou em busca de:
 
-**🦾 Projetos desafiadores na área de back-end**
+• **🦾 Projetos desafiadores na área de back-end**
 
-**👾 Contribuições em open source**
+• **👾 Contribuições em open source**
 
-**🚀 Oportunidades de desenvolvimento e crescimento profissional**
+• **🚀 Oportunidades de desenvolvimento e crescimento profissional**
