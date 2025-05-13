@@ -30,8 +30,8 @@ Olá! Sou Yuri Santos, um desenvolvedor back-end em formação com foco em APIs.
 
 ## 📫 Contato
 
-• **📧 E-mail: yurisantsboy2007@gmail.com
+• **📧 E-mail: yurisantsboy2007@gmail.com**
 
-• **🔗 LinkedIn: 
+• **🔗 LinkedIn:**
 
-• **🐙 GitHub: github.com/YuriSantxz07
+• **🐙 GitHub: github.com/YuriSantxz07**
